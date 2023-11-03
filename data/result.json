@@ -1,0 +1,106 @@
+[
+    {
+        "words": [
+            {
+                "content": "Реально",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "начать",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "день",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "с",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "улыбки -",
+                "pause_len": 223,
+                "phrasal_stress": "True"
+            },
+            {
+                "content": "это",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "проснуться",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "от",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "звонка",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "будильника",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "в",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "одну",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "минуту",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "первого",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "ночи,",
+                "pause_len": 239,
+                "phrasal_stress": "True"
+            },
+            {
+                "content": "широко",
+                "pause_len": 55,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "улыбнуться",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "и",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "спать",
+                "pause_len": -1,
+                "phrasal_stress": "False"
+            },
+            {
+                "content": "дальше.",
+                "pause_len": 789,
+                "phrasal_stress": "True"
+            }
+        ]
+    }
+]
