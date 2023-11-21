@@ -1,0 +1,165 @@
+<text>
+	<sentence>
+		<content LinkType="5"/>
+		<word original="Больше">б			<letter char="б" flag="16"/>
+			<stress power="1" type="1"/>
+о			<letter char="о" flag="9"/>
+			<letter char="л"/>
+			<letter char="ь"/>
+ш			<letter char="ш"/>
+			<letter char="е" flag="8"/>
+			<dictitem weight="40" subpart_of_speech="10" form="0" genesys="0" stress_dict="1"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="всего">в			<letter char="в"/>
+			<letter char="с"/>
+			<letter char="е" flag="8"/>
+			<letter char="г"/>
+			<stress power="1" type="1"/>
+о			<letter char="о" flag="9"/>
+			<dictitem weight="60" subpart_of_speech="1" form="2" genesys="6" stress_dict="2" semantics2="2"/>
+		</word>
+		<content/>
+		<word original="человек">ч			<letter char="ч"/>
+			<letter char="е" flag="8"/>
+			<letter char="л"/>
+			<letter char="о" flag="8"/>
+			<letter char="в"/>
+			<stress power="1" type="1"/>
+е			<letter char="е" flag="9"/>
+			<letter char="к"/>
+			<dictitem weight="20" subpart_of_speech="1" form="1" genesys="1" stress_dict="3"/>
+		</word>
+		<content/>
+		<word original="ненавидит">н			<letter char="н"/>
+			<letter char="е" flag="8"/>
+			<letter char="н"/>
+			<letter char="а" flag="8"/>
+			<letter char="в"/>
+			<stress power="1" type="1"/>
+и			<letter char="и" flag="9"/>
+			<letter char="д"/>
+			<letter char="и" flag="8"/>
+			<letter char="т"/>
+			<dictitem weight="10" subpart_of_speech="6" form="63" genesys="0" stress_dict="3" semantics2="10"/>
+		</word>
+		<content PunktEnd="2" PauseType="3"/>
+		<word original="тех," nucleus="2">т			<letter char="т"/>
+			<stress power="2" type="1"/>
+е			<letter char="е" flag="9"/>
+			<letter char="х"/>
+			<dictitem subpart_of_speech="3" form="40" genesys="0" stress_dict="1" semantics2="3"/>
+		</word>
+		<intonation type="110"/>
+		<pause type="weak"/>
+		<content LinkType="5"/>
+		<word original="кто">к			<letter char="к"/>
+			<letter char="т"/>
+			<stress power="1" type="2"/>
+о			<letter char="о" flag="10"/>
+			<dictitem weight="10" subpart_of_speech="1" form="1" genesys="1" stress_additional_dict="1" semantics2="2"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="смеется">с			<letter char="с"/>
+			<letter char="м"/>
+			<letter char="е" flag="8"/>
+			<stress power="1" type="1"/>
+ё			<letter char="ё" flag="9"/>
+			<letter char="т"/>
+			<letter char="с"/>
+я			<letter char="я" flag="8"/>
+			<dictitem weight="20" subpart_of_speech="6" form="63" genesys="0" yo_place1="2" stress_dict="2"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="ему">е			<letter char="е" flag="8"/>
+			<letter char="м"/>
+			<stress power="1" type="2"/>
+у			<letter char="у" flag="10"/>
+			<dictitem weight="60" subpart_of_speech="11" form="4" genesys="1" stress_additional_dict="2" semantics2="2"/>
+			<dictitem weight="60" subpart_of_speech="11" form="4" genesys="3" stress_additional_dict="2" semantics2="2"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="прямо">п			<letter char="п"/>
+			<letter char="р"/>
+			<stress power="1" type="1"/>
+я			<letter char="я" flag="9"/>
+			<letter char="м"/>
+			<letter char="о" flag="8"/>
+			<dictitem weight="20" subpart_of_speech="10" form="0" genesys="0" stress_dict="1"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="в">в			<letter char="в"/>
+			<dictitem weight="20" subpart_of_speech="9" form="0" genesys="0" semantics2="100"/>
+		</word>
+		<content PunktEnd="2" PauseType="3"/>
+		<word original="глаза," nucleus="2">г			<letter char="г"/>
+			<letter char="л"/>
+			<letter char="а" flag="8"/>
+			<letter char="з"/>
+			<stress power="2" type="1"/>
+а			<letter char="а" flag="9"/>
+			<dictitem weight="80" subpart_of_speech="2" form="12" genesys="4" stress_dict="2"/>
+		</word>
+		<intonation type="110"/>
+		<pause type="weak"/>
+		<content LinkType="5"/>
+		<word original="а">а			<letter char="а" flag="8"/>
+			<dictitem subpart_of_speech="9" form="0" genesys="0" semantics2="200"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="не">н			<letter char="н"/>
+			<letter char="е" flag="8"/>
+			<dictitem weight="10" subpart_of_speech="9" form="0" genesys="0" semantics2="400"/>
+		</word>
+		<content PunktEnd="2" LinkType="5"/>
+		<word original="тех,">т			<letter char="т"/>
+			<stress power="1" type="1"/>
+е			<letter char="е" flag="9"/>
+			<letter char="х"/>
+			<dictitem weight="10" subpart_of_speech="3" form="40" genesys="0" stress_dict="1" semantics2="3"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="кто">к			<letter char="к"/>
+			<letter char="т"/>
+			<stress power="1" type="2"/>
+о			<letter char="о" flag="10"/>
+			<dictitem weight="10" subpart_of_speech="1" form="1" genesys="1" stress_additional_dict="1" semantics2="2"/>
+		</word>
+		<content/>
+		<word original="смеется">с			<letter char="с"/>
+			<letter char="м"/>
+			<letter char="е" flag="8"/>
+			<stress power="1" type="1"/>
+ё			<letter char="ё" flag="9"/>
+			<letter char="т"/>
+			<letter char="с"/>
+я			<letter char="я" flag="8"/>
+			<dictitem weight="40" subpart_of_speech="6" form="63" genesys="0" yo_place1="2" stress_dict="2"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="за">з			<letter char="з"/>
+			<letter char="а" flag="8"/>
+			<dictitem weight="40" subpart_of_speech="9" form="0" genesys="0" semantics2="100"/>
+		</word>
+		<content LinkType="5"/>
+		<word original="его">е			<letter char="е" flag="8"/>
+			<letter char="г"/>
+			<stress power="1" type="2"/>
+о			<letter char="о" flag="10"/>
+			<dictitem weight="90" subpart_of_speech="3" form="0" genesys="0" stress_additional_dict="2" semantics2="3"/>
+		</word>
+		<content PunktEnd="1" PauseType="5"/>
+		<word original="спиной." nucleus="2">с			<letter char="с"/>
+			<letter char="п"/>
+			<letter char="и" flag="8"/>
+			<letter char="н"/>
+			<stress power="2" type="1"/>
+о			<letter char="о" flag="9"/>
+			<letter char="й"/>
+			<dictitem weight="40" subpart_of_speech="1" form="6" genesys="5" stress_dict="2"/>
+		</word>
+		<intonation type="11"/>
+		<pause type="spelling" time="300" sign="final"/>
+		<LastSentence/>
+	</sentence>
+</text>
